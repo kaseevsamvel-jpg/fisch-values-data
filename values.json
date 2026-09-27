@@ -7,10 +7,10 @@
     "category": "Items"
   },
   {
-    "name": "TEST_ITEM_123",
+    "name": "Caelinfernum",
     "trueVal": "N/A",
     "proto": "N/A",
-    "tradeHub": "S$ 999M",
+    "tradeHub": "S$ 945K",
     "category": "Items"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Final Census",
     "trueVal": "S$ 2.4M",
     "proto": "290",
-    "tradeHub": "S$ 2.1M",
+    "tradeHub": "S$ 2.0M",
     "category": "Items"
   },
   {
@@ -353,7 +353,7 @@
     "name": "Bunblade",
     "trueVal": "S$ 655K",
     "proto": "90",
-    "tradeHub": "S$ 724K",
+    "tradeHub": "S$ 725K",
     "category": "Items"
   },
   {
@@ -367,7 +367,7 @@
     "name": "Umbral Vengeance",
     "trueVal": "S$ 640K",
     "proto": "90",
-    "tradeHub": "S$ 666K",
+    "tradeHub": "S$ 667K",
     "category": "Items"
   },
   {
@@ -563,7 +563,7 @@
     "name": "Luckysaurus",
     "trueVal": "S$ 350K",
     "proto": "50",
-    "tradeHub": "S$ 355K",
+    "tradeHub": "S$ 358K",
     "category": "Items"
   },
   {
@@ -1116,7 +1116,7 @@
     "name": "Banana Rod",
     "trueVal": "S$ 120K",
     "proto": "25",
-    "tradeHub": "S$ 340K",
+    "tradeHub": "S$ 329K",
     "category": "Items"
   },
   {
@@ -1452,7 +1452,7 @@
     "name": "Fishi Citrus",
     "trueVal": "S$ 100K",
     "proto": "15",
-    "tradeHub": "S$ 96.9K",
+    "tradeHub": "S$ 96.7K",
     "category": "Items"
   },
   {
@@ -1676,7 +1676,7 @@
     "name": "Gummy Bam!",
     "trueVal": "S$ 110K",
     "proto": "11",
-    "tradeHub": "S$ 93.0K",
+    "tradeHub": "S$ 93.1K",
     "category": "Items"
   },
   {
@@ -8746,7 +8746,7 @@
     "name": "Terrotrapper Rod",
     "trueVal": "S$ 35K",
     "proto": "N/A",
-    "tradeHub": "S$ 41K",
+    "tradeHub": "S$ 41.6K",
     "category": "Items"
   },
   {
