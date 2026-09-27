@@ -1,0 +1,8941 @@
+[
+  {
+    "name": "Whalesong Orcarina",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Centicute",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 450K",
+    "category": "Items"
+  },
+  {
+    "name": "Moneyheist",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cash Cruisin'",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fishymotion",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 380K",
+    "category": "Items"
+  },
+  {
+    "name": "Caelinfernum",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 945K",
+    "category": "Items"
+  },
+  {
+    "name": "KR ROAR",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 985K",
+    "category": "Items"
+  },
+  {
+    "name": "Coco Capy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 320K",
+    "category": "Items"
+  },
+  {
+    "name": "Puff of Heaven",
+    "trueVal": "N/A",
+    "proto": "7,200",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cthulu's Revenge",
+    "trueVal": "N/A",
+    "proto": "5,000",
+    "tradeHub": "S$ 26.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Evangeline",
+    "trueVal": "S$ 10.8M",
+    "proto": "2,250",
+    "tradeHub": "S$ 10.8M",
+    "category": "Items"
+  },
+  {
+    "name": "Nocturne",
+    "trueVal": "S$ 9.4M",
+    "proto": "1,800",
+    "tradeHub": "S$ 10.1M",
+    "category": "Items"
+  },
+  {
+    "name": "Curse IV",
+    "trueVal": "S$ 9.2M",
+    "proto": "1,625",
+    "tradeHub": "S$ 8.5M",
+    "category": "Items"
+  },
+  {
+    "name": "Cyanic Demonride",
+    "trueVal": "S$ 7.4M",
+    "proto": "1,500",
+    "tradeHub": "S$ 7.4M",
+    "category": "Items"
+  },
+  {
+    "name": "Scarwing",
+    "trueVal": "S$ 7.2M",
+    "proto": "1,275",
+    "tradeHub": "S$ 6.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Heavyblade of Glory",
+    "trueVal": "S$ 4.5M",
+    "proto": "725",
+    "tradeHub": "S$ 4.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Slime Trade Booth",
+    "trueVal": "S$ 3.9M",
+    "proto": "700",
+    "tradeHub": "S$ 4.3M",
+    "category": "Items"
+  },
+  {
+    "name": "Black Comet",
+    "trueVal": "S$ 3.5M",
+    "proto": "485",
+    "tradeHub": "S$ 3.5M",
+    "category": "Items"
+  },
+  {
+    "name": "The Reaper",
+    "trueVal": "S$ 3.5M",
+    "proto": "430",
+    "tradeHub": "S$ 3.3M",
+    "category": "Items"
+  },
+  {
+    "name": "Fuchsia Fidelity",
+    "trueVal": "S$ 3.1M",
+    "proto": "375",
+    "tradeHub": "S$ 3.1M",
+    "category": "Items"
+  },
+  {
+    "name": "Malevolence",
+    "trueVal": "S$ 2.6M",
+    "proto": "365",
+    "tradeHub": "S$ 2.8M",
+    "category": "Items"
+  },
+  {
+    "name": "Platinum Menace",
+    "trueVal": "S$ 2.7M",
+    "proto": "350",
+    "tradeHub": "S$ 2.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie Booth",
+    "trueVal": "S$ 2.3M",
+    "proto": "345",
+    "tradeHub": "S$ 2.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Final Census",
+    "trueVal": "S$ 2.4M",
+    "proto": "290",
+    "tradeHub": "S$ 2.0M",
+    "category": "Items"
+  },
+  {
+    "name": "Cthulunaut",
+    "trueVal": "S$ 1.7M",
+    "proto": "255",
+    "tradeHub": "S$ 1.8M",
+    "category": "Items"
+  },
+  {
+    "name": "Dreamline",
+    "trueVal": "S$ 1.9M",
+    "proto": "250",
+    "tradeHub": "S$ 1.8M",
+    "category": "Items"
+  },
+  {
+    "name": "Cuddly Claw",
+    "trueVal": "S$ 2M",
+    "proto": "250",
+    "tradeHub": "S$ 1.9M",
+    "category": "Items"
+  },
+  {
+    "name": "Demonwake",
+    "trueVal": "S$ 2M",
+    "proto": "240",
+    "tradeHub": "S$ 1.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Seastrum",
+    "trueVal": "S$ 1.8M",
+    "proto": "210",
+    "tradeHub": "S$ 1.6M",
+    "category": "Items"
+  },
+  {
+    "name": "Meowmobile",
+    "trueVal": "S$ 1.5M",
+    "proto": "195",
+    "tradeHub": "S$ 1.6M",
+    "category": "Items"
+  },
+  {
+    "name": "Purr of Rebellion",
+    "trueVal": "S$ 1.5M",
+    "proto": "180",
+    "tradeHub": "S$ 1.5M",
+    "category": "Items"
+  },
+  {
+    "name": "Shelter Booth",
+    "trueVal": "S$ 1M",
+    "proto": "180",
+    "tradeHub": "S$ 1.1M",
+    "category": "Items"
+  },
+  {
+    "name": "Violet Viper",
+    "trueVal": "S$ 1.6M",
+    "proto": "165",
+    "tradeHub": "S$ 1.4M",
+    "category": "Items"
+  },
+  {
+    "name": "Elysian Jolt",
+    "trueVal": "S$ 1.6M",
+    "proto": "165",
+    "tradeHub": "S$ 1.4M",
+    "category": "Items"
+  },
+  {
+    "name": "Curse III",
+    "trueVal": "S$ 1.4M",
+    "proto": "160",
+    "tradeHub": "S$ 1.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Pastel Impulse",
+    "trueVal": "S$ 1.5M",
+    "proto": "155",
+    "tradeHub": "S$ 1.4M",
+    "category": "Items"
+  },
+  {
+    "name": "Radiant Executioner",
+    "trueVal": "S$ 950K",
+    "proto": "150",
+    "tradeHub": "S$ 963K",
+    "category": "Items"
+  },
+  {
+    "name": "Puffernaut",
+    "trueVal": "S$ 1M",
+    "proto": "145",
+    "tradeHub": "S$ 969K",
+    "category": "Items"
+  },
+  {
+    "name": "Aurelia’s Grace",
+    "trueVal": "S$ 1.1M",
+    "proto": "140",
+    "tradeHub": "S$ 1.1M",
+    "category": "Items"
+  },
+  {
+    "name": "Pinky Parcel",
+    "trueVal": "S$ 975K",
+    "proto": "135",
+    "tradeHub": "S$ 950K",
+    "category": "Items"
+  },
+  {
+    "name": "Cathedral Booth",
+    "trueVal": "S$ 700K",
+    "proto": "120",
+    "tradeHub": "S$ 740K",
+    "category": "Items"
+  },
+  {
+    "name": "Kraken of the Void",
+    "trueVal": "S$ 950K",
+    "proto": "120",
+    "tradeHub": "S$ 975K",
+    "category": "Items"
+  },
+  {
+    "name": "Pantheress",
+    "trueVal": "S$ 860K",
+    "proto": "110",
+    "tradeHub": "S$ 802K",
+    "category": "Items"
+  },
+  {
+    "name": "AntiMatter",
+    "trueVal": "S$ 945K",
+    "proto": "110",
+    "tradeHub": "S$ 910K",
+    "category": "Items"
+  },
+  {
+    "name": "Crest of Galactica",
+    "trueVal": "S$ 930K",
+    "proto": "105",
+    "tradeHub": "S$ 911K",
+    "category": "Items"
+  },
+  {
+    "name": "Midnight Cruiser",
+    "trueVal": "S$ 30.0K",
+    "proto": "100",
+    "tradeHub": "S$ 27.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Roslit Leviathan",
+    "trueVal": "S$ 500K",
+    "proto": "100",
+    "tradeHub": "S$ 1.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Infrared Tunes",
+    "trueVal": "S$ 865K",
+    "proto": "95",
+    "tradeHub": "S$ 821K",
+    "category": "Items"
+  },
+  {
+    "name": "Cthulhu Boat",
+    "trueVal": "S$ 1M",
+    "proto": "95",
+    "tradeHub": "S$ 1.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Stars Highways",
+    "trueVal": "S$ 850K",
+    "proto": "95",
+    "tradeHub": "S$ 829K",
+    "category": "Items"
+  },
+  {
+    "name": "Poltergeist",
+    "trueVal": "S$ 820K",
+    "proto": "90",
+    "tradeHub": "S$ 786K",
+    "category": "Items"
+  },
+  {
+    "name": "Bunblade",
+    "trueVal": "S$ 655K",
+    "proto": "90",
+    "tradeHub": "S$ 724K",
+    "category": "Items"
+  },
+  {
+    "name": "Umbral Vengeance",
+    "trueVal": "S$ 640K",
+    "proto": "90",
+    "tradeHub": "S$ 667K",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Bonsai",
+    "trueVal": "S$ 615K",
+    "proto": "80",
+    "tradeHub": "S$ 575K",
+    "category": "Items"
+  },
+  {
+    "name": "Pyre of Mercy",
+    "trueVal": "S$ 460K",
+    "proto": "80",
+    "tradeHub": "S$ 440K",
+    "category": "Items"
+  },
+  {
+    "name": "Kaboom!",
+    "trueVal": "S$ 655K",
+    "proto": "80",
+    "tradeHub": "S$ 610K",
+    "category": "Items"
+  },
+  {
+    "name": "Peep Princess Booth",
+    "trueVal": "S$ 600K",
+    "proto": "75",
+    "tradeHub": "S$ 437K",
+    "category": "Items"
+  },
+  {
+    "name": "Inky Pal",
+    "trueVal": "S$ 250K",
+    "proto": "75",
+    "tradeHub": "S$ 261K",
+    "category": "Items"
+  },
+  {
+    "name": "Orange Unicycle",
+    "trueVal": "S$ 295K",
+    "proto": "70",
+    "tradeHub": "S$ 353K",
+    "category": "Items"
+  },
+  {
+    "name": "Brutal Redemption",
+    "trueVal": "S$ 620K",
+    "proto": "70",
+    "tradeHub": "S$ 640K",
+    "category": "Items"
+  },
+  {
+    "name": "Koutetsu",
+    "trueVal": "S$ 690K",
+    "proto": "70",
+    "tradeHub": "S$ 650K",
+    "category": "Items"
+  },
+  {
+    "name": "Amouria",
+    "trueVal": "S$ 590K",
+    "proto": "70",
+    "tradeHub": "S$ 660K",
+    "category": "Items"
+  },
+  {
+    "name": "Inkling Overseer",
+    "trueVal": "S$ 450K",
+    "proto": "70",
+    "tradeHub": "S$ 950K",
+    "category": "Items"
+  },
+  {
+    "name": "Seraphic Rainbow",
+    "trueVal": "S$ 640K",
+    "proto": "70",
+    "tradeHub": "S$ 615K",
+    "category": "Items"
+  },
+  {
+    "name": "Sushi-Rider",
+    "trueVal": "S$ 200K",
+    "proto": "65",
+    "tradeHub": "S$ 174K",
+    "category": "Items"
+  },
+  {
+    "name": "Archangelite",
+    "trueVal": "S$ 675K",
+    "proto": "65",
+    "tradeHub": "S$ 578K",
+    "category": "Items"
+  },
+  {
+    "name": "The Blubbernaut",
+    "trueVal": "S$ 600K",
+    "proto": "65",
+    "tradeHub": "S$ 538K",
+    "category": "Items"
+  },
+  {
+    "name": "Draconica",
+    "trueVal": "S$ 550K",
+    "proto": "65",
+    "tradeHub": "S$ 581K",
+    "category": "Items"
+  },
+  {
+    "name": "Purrari",
+    "trueVal": "S$ 535K",
+    "proto": "65",
+    "tradeHub": "S$ 457K",
+    "category": "Items"
+  },
+  {
+    "name": "Transcendence",
+    "trueVal": "S$ 530K",
+    "proto": "60",
+    "tradeHub": "S$ 560K",
+    "category": "Items"
+  },
+  {
+    "name": "Dreadmarrow",
+    "trueVal": "S$ 420K",
+    "proto": "60",
+    "tradeHub": "S$ 505K",
+    "category": "Items"
+  },
+  {
+    "name": "Grand Symphony",
+    "trueVal": "S$ 541K",
+    "proto": "60",
+    "tradeHub": "S$ 492K",
+    "category": "Items"
+  },
+  {
+    "name": "Jettling",
+    "trueVal": "S$ 575K",
+    "proto": "60",
+    "tradeHub": "S$ 508K",
+    "category": "Items"
+  },
+  {
+    "name": "Echolocator",
+    "trueVal": "S$ 420K",
+    "proto": "55",
+    "tradeHub": "S$ 395K",
+    "category": "Items"
+  },
+  {
+    "name": "RoboChomp!",
+    "trueVal": "S$ 350K",
+    "proto": "55",
+    "tradeHub": "S$ 375K",
+    "category": "Items"
+  },
+  {
+    "name": "Xanthos",
+    "trueVal": "S$ 475K",
+    "proto": "55",
+    "tradeHub": "S$ 476K",
+    "category": "Items"
+  },
+  {
+    "name": "Party Puffer",
+    "trueVal": "S$ 490K",
+    "proto": "55",
+    "tradeHub": "S$ 436K",
+    "category": "Items"
+  },
+  {
+    "name": "Surgeon's Sword",
+    "trueVal": "S$ 415K",
+    "proto": "50",
+    "tradeHub": "S$ 387K",
+    "category": "Items"
+  },
+  {
+    "name": "Popsicle Jetski",
+    "trueVal": "S$ 100K",
+    "proto": "50",
+    "tradeHub": "S$ 177K",
+    "category": "Items"
+  },
+  {
+    "name": "King of the Kraken",
+    "trueVal": "N/A",
+    "proto": "50",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Botanica",
+    "trueVal": "S$ 325K",
+    "proto": "50",
+    "tradeHub": "S$ 338K",
+    "category": "Items"
+  },
+  {
+    "name": "Raingokart",
+    "trueVal": "S$ 380K",
+    "proto": "50",
+    "tradeHub": "S$ 384K",
+    "category": "Items"
+  },
+  {
+    "name": "Lyrical Loft",
+    "trueVal": "S$ 390K",
+    "proto": "50",
+    "tradeHub": "S$ 391K",
+    "category": "Items"
+  },
+  {
+    "name": "Onyxum",
+    "trueVal": "S$ 450K",
+    "proto": "50",
+    "tradeHub": "S$ 433K",
+    "category": "Items"
+  },
+  {
+    "name": "Diablo",
+    "trueVal": "S$ 400K",
+    "proto": "50",
+    "tradeHub": "S$ 400K",
+    "category": "Items"
+  },
+  {
+    "name": "Luckysaurus",
+    "trueVal": "S$ 350K",
+    "proto": "50",
+    "tradeHub": "S$ 355K",
+    "category": "Items"
+  },
+  {
+    "name": "Flame Shears",
+    "trueVal": "N/A",
+    "proto": "50",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostbite",
+    "trueVal": "S$ 390K",
+    "proto": "50",
+    "tradeHub": "S$ 371K",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Onirifalx",
+    "trueVal": "S$ 37K",
+    "proto": "45",
+    "tradeHub": "S$ 71.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Infrarana",
+    "trueVal": "S$ 390K",
+    "proto": "45",
+    "tradeHub": "S$ 389K",
+    "category": "Items"
+  },
+  {
+    "name": "Macabre Mistress",
+    "trueVal": "S$ 345K",
+    "proto": "45",
+    "tradeHub": "S$ 334K",
+    "category": "Items"
+  },
+  {
+    "name": "Winged Royalty",
+    "trueVal": "S$ 425K",
+    "proto": "45",
+    "tradeHub": "S$ 356K",
+    "category": "Items"
+  },
+  {
+    "name": "Ivorous",
+    "trueVal": "S$ 240K",
+    "proto": "45",
+    "tradeHub": "S$ 222K",
+    "category": "Items"
+  },
+  {
+    "name": "CritSlasher",
+    "trueVal": "S$ 345K",
+    "proto": "45",
+    "tradeHub": "S$ 315K",
+    "category": "Items"
+  },
+  {
+    "name": "Shinigami",
+    "trueVal": "S$ 380K",
+    "proto": "45",
+    "tradeHub": "S$ 376K",
+    "category": "Items"
+  },
+  {
+    "name": "Silkbane",
+    "trueVal": "S$ 365K",
+    "proto": "45",
+    "tradeHub": "S$ 640K",
+    "category": "Items"
+  },
+  {
+    "name": "Mango Tango!",
+    "trueVal": "S$ 375K",
+    "proto": "45",
+    "tradeHub": "S$ 325K",
+    "category": "Items"
+  },
+  {
+    "name": "Nullprawn",
+    "trueVal": "S$ 350K",
+    "proto": "45",
+    "tradeHub": "S$ 280K",
+    "category": "Items"
+  },
+  {
+    "name": "Guardian Angel",
+    "trueVal": "S$ 350K",
+    "proto": "45",
+    "tradeHub": "S$ 374K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestiana",
+    "trueVal": "S$ 365K",
+    "proto": "43",
+    "tradeHub": "S$ 329K",
+    "category": "Items"
+  },
+  {
+    "name": "Nevermore",
+    "trueVal": "S$ 315K",
+    "proto": "40",
+    "tradeHub": "S$ 299K",
+    "category": "Items"
+  },
+  {
+    "name": "Mortisfalx",
+    "trueVal": "N/A",
+    "proto": "40",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cyber Shooter",
+    "trueVal": "S$ 270K",
+    "proto": "40",
+    "tradeHub": "S$ 625K",
+    "category": "Items"
+  },
+  {
+    "name": "Cobalt Crusader",
+    "trueVal": "S$ 345K",
+    "proto": "40",
+    "tradeHub": "S$ 316K",
+    "category": "Items"
+  },
+  {
+    "name": "Mew-FO",
+    "trueVal": "S$ 275K",
+    "proto": "40",
+    "tradeHub": "S$ 266K",
+    "category": "Items"
+  },
+  {
+    "name": "Melodii",
+    "trueVal": "S$ 320K",
+    "proto": "40",
+    "tradeHub": "S$ 382K",
+    "category": "Items"
+  },
+  {
+    "name": "Malisteel",
+    "trueVal": "S$ 240K",
+    "proto": "40",
+    "tradeHub": "S$ 224K",
+    "category": "Items"
+  },
+  {
+    "name": "Martyr's Battleaxe",
+    "trueVal": "S$ 390K",
+    "proto": "40",
+    "tradeHub": "S$ 361K",
+    "category": "Items"
+  },
+  {
+    "name": "Sweetheart Scissors",
+    "trueVal": "S$ 380K",
+    "proto": "40",
+    "tradeHub": "S$ 338K",
+    "category": "Items"
+  },
+  {
+    "name": "Iridescence",
+    "trueVal": "S$ 250K",
+    "proto": "38",
+    "tradeHub": "S$ 243K",
+    "category": "Items"
+  },
+  {
+    "name": "Banana Cruiser",
+    "trueVal": "S$ 160K",
+    "proto": "35",
+    "tradeHub": "S$ 495K",
+    "category": "Items"
+  },
+  {
+    "name": "Mechanexus",
+    "trueVal": "S$ 320K",
+    "proto": "35",
+    "tradeHub": "S$ 275K",
+    "category": "Items"
+  },
+  {
+    "name": "Nameless Illuminator",
+    "trueVal": "S$ 380K",
+    "proto": "35",
+    "tradeHub": "S$ 316K",
+    "category": "Items"
+  },
+  {
+    "name": "Tropica Booth",
+    "trueVal": "S$ 316K",
+    "proto": "35",
+    "tradeHub": "S$ 280K",
+    "category": "Items"
+  },
+  {
+    "name": "Forgotten Doodle",
+    "trueVal": "N/A",
+    "proto": "35",
+    "tradeHub": "S$ 240K",
+    "category": "Items"
+  },
+  {
+    "name": "Hollowed Harp",
+    "trueVal": "S$ 325K",
+    "proto": "35",
+    "tradeHub": "S$ 300K",
+    "category": "Items"
+  },
+  {
+    "name": "Doodle King",
+    "trueVal": "N/A",
+    "proto": "35",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Astropod",
+    "trueVal": "S$ 315K",
+    "proto": "35",
+    "tradeHub": "S$ 293K",
+    "category": "Items"
+  },
+  {
+    "name": "Sanzu's Embrace",
+    "trueVal": "S$ 220K",
+    "proto": "35",
+    "tradeHub": "S$ 205K",
+    "category": "Items"
+  },
+  {
+    "name": "Nightfaller",
+    "trueVal": "S$ 230K",
+    "proto": "35",
+    "tradeHub": "S$ 232K",
+    "category": "Items"
+  },
+  {
+    "name": "Riptide",
+    "trueVal": "S$ 170K",
+    "proto": "35",
+    "tradeHub": "S$ 179K",
+    "category": "Items"
+  },
+  {
+    "name": "Racerbooth",
+    "trueVal": "N/A",
+    "proto": "35",
+    "tradeHub": "S$ 305K",
+    "category": "Items"
+  },
+  {
+    "name": "Meowtastic Tower",
+    "trueVal": "S$ 278K",
+    "proto": "35",
+    "tradeHub": "S$ 259K",
+    "category": "Items"
+  },
+  {
+    "name": "Wavestrummer",
+    "trueVal": "S$ 325K",
+    "proto": "35",
+    "tradeHub": "S$ 311K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Cadence",
+    "trueVal": "S$ 275K",
+    "proto": "35",
+    "tradeHub": "S$ 267K",
+    "category": "Items"
+  },
+  {
+    "name": "Petalstrike",
+    "trueVal": "S$ 2.1M",
+    "proto": "35",
+    "tradeHub": "S$ 3.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Dutchman's Penance",
+    "trueVal": "S$ 255K",
+    "proto": "35",
+    "tradeHub": "S$ 250K",
+    "category": "Items"
+  },
+  {
+    "name": "Wings of Ruin",
+    "trueVal": "S$ 225K",
+    "proto": "35",
+    "tradeHub": "S$ 259K",
+    "category": "Items"
+  },
+  {
+    "name": "Crypted Ivory",
+    "trueVal": "S$ 425K",
+    "proto": "30",
+    "tradeHub": "S$ 335K",
+    "category": "Items"
+  },
+  {
+    "name": "Reef Ripper",
+    "trueVal": "N/A",
+    "proto": "30",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ethereal Kraken",
+    "trueVal": "S$ 450K",
+    "proto": "30",
+    "tradeHub": "S$ 623K",
+    "category": "Items"
+  },
+  {
+    "name": "Vitalica",
+    "trueVal": "S$ 180K",
+    "proto": "30",
+    "tradeHub": "S$ 179K",
+    "category": "Items"
+  },
+  {
+    "name": "Kitty Keys",
+    "trueVal": "S$ 315K",
+    "proto": "30",
+    "tradeHub": "S$ 286K",
+    "category": "Items"
+  },
+  {
+    "name": "Gilded Heart",
+    "trueVal": "S$ 200K",
+    "proto": "30",
+    "tradeHub": "S$ 443K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Prismheart",
+    "trueVal": "N/A",
+    "proto": "30",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rawrboard",
+    "trueVal": "S$ 275K",
+    "proto": "30",
+    "tradeHub": "S$ 240K",
+    "category": "Items"
+  },
+  {
+    "name": "Corruptor",
+    "trueVal": "S$ 225K",
+    "proto": "30",
+    "tradeHub": "S$ 203K",
+    "category": "Items"
+  },
+  {
+    "name": "Majesty's Wand",
+    "trueVal": "S$ 40K",
+    "proto": "30",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Arcane Elegance",
+    "trueVal": "N/A",
+    "proto": "30",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lily of Glacia",
+    "trueVal": "S$ 240K",
+    "proto": "30",
+    "tradeHub": "S$ 303K",
+    "category": "Items"
+  },
+  {
+    "name": "Halberd of Reverence",
+    "trueVal": "S$ 4M",
+    "proto": "30",
+    "tradeHub": "S$ 3.4M",
+    "category": "Items"
+  },
+  {
+    "name": "Love Specter",
+    "trueVal": "N/A",
+    "proto": "30",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shiny Nessie",
+    "trueVal": "S$ 450K",
+    "proto": "30",
+    "tradeHub": "S$ 850K",
+    "category": "Items"
+  },
+  {
+    "name": "Silverback Dreamer",
+    "trueVal": "N/A",
+    "proto": "30",
+    "tradeHub": "S$ 242K",
+    "category": "Items"
+  },
+  {
+    "name": "Nekobura",
+    "trueVal": "S$ 240K",
+    "proto": "30",
+    "tradeHub": "S$ 231K",
+    "category": "Items"
+  },
+  {
+    "name": "Bow-Wow",
+    "trueVal": "S$ 190K",
+    "proto": "30",
+    "tradeHub": "S$ 165K",
+    "category": "Items"
+  },
+  {
+    "name": "Volcanic Speedboat",
+    "trueVal": "S$ 11K",
+    "proto": "30",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Talismania",
+    "trueVal": "S$ 300K",
+    "proto": "30",
+    "tradeHub": "S$ 256K",
+    "category": "Items"
+  },
+  {
+    "name": "Gloombear",
+    "trueVal": "S$ 245K",
+    "proto": "28",
+    "tradeHub": "S$ 216K",
+    "category": "Items"
+  },
+  {
+    "name": "Lavenescence",
+    "trueVal": "S$ 250K",
+    "proto": "28",
+    "tradeHub": "S$ 214K",
+    "category": "Items"
+  },
+  {
+    "name": "Feather Finder Rod",
+    "trueVal": "N/A",
+    "proto": "25",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sterling Parasol",
+    "trueVal": "S$ 180K",
+    "proto": "25",
+    "tradeHub": "S$ 160K",
+    "category": "Items"
+  },
+  {
+    "name": "Zephyrmantis",
+    "trueVal": "S$ 100K",
+    "proto": "25",
+    "tradeHub": "S$ 100K",
+    "category": "Items"
+  },
+  {
+    "name": "Soulful Omen",
+    "trueVal": "S$ 280K",
+    "proto": "25",
+    "tradeHub": "S$ 242K",
+    "category": "Items"
+  },
+  {
+    "name": "Love Crasher",
+    "trueVal": "S$ 5.5K",
+    "proto": "25",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Monsleeper",
+    "trueVal": "N/A",
+    "proto": "25",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chromancer",
+    "trueVal": "S$ 300K",
+    "proto": "25",
+    "tradeHub": "S$ 259K",
+    "category": "Items"
+  },
+  {
+    "name": "Banana Rod",
+    "trueVal": "S$ 120K",
+    "proto": "25",
+    "tradeHub": "S$ 329K",
+    "category": "Items"
+  },
+  {
+    "name": "Nemesis",
+    "trueVal": "S$ 170K",
+    "proto": "25",
+    "tradeHub": "S$ 157K",
+    "category": "Items"
+  },
+  {
+    "name": "Triple Fishstaff",
+    "trueVal": "S$ 185K",
+    "proto": "25",
+    "tradeHub": "S$ 154K",
+    "category": "Items"
+  },
+  {
+    "name": "Starliner",
+    "trueVal": "S$ 150K",
+    "proto": "25",
+    "tradeHub": "S$ 172K",
+    "category": "Items"
+  },
+  {
+    "name": "Sunfyre",
+    "trueVal": "S$ 150K",
+    "proto": "25",
+    "tradeHub": "S$ 147K",
+    "category": "Items"
+  },
+  {
+    "name": "Porcelain Chord",
+    "trueVal": "S$ 240K",
+    "proto": "25",
+    "tradeHub": "S$ 209K",
+    "category": "Items"
+  },
+  {
+    "name": "Apple Cider",
+    "trueVal": "S$ 70K",
+    "proto": "25",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Sweet Picnic Glider",
+    "trueVal": "S$ 140K",
+    "proto": "24",
+    "tradeHub": "S$ 135K",
+    "category": "Items"
+  },
+  {
+    "name": "Polarastar",
+    "trueVal": "S$ 150K",
+    "proto": "22",
+    "tradeHub": "S$ 143K",
+    "category": "Items"
+  },
+  {
+    "name": "Dovepoint",
+    "trueVal": "S$ 250K",
+    "proto": "22",
+    "tradeHub": "S$ 211K",
+    "category": "Items"
+  },
+  {
+    "name": "Razorella",
+    "trueVal": "S$ 100K",
+    "proto": "20",
+    "tradeHub": "S$ 100K",
+    "category": "Items"
+  },
+  {
+    "name": "Jelly Cascade",
+    "trueVal": "S$ 160K",
+    "proto": "20",
+    "tradeHub": "S$ 145K",
+    "category": "Items"
+  },
+  {
+    "name": "Paper Plane",
+    "trueVal": "S$ 112K",
+    "proto": "20",
+    "tradeHub": "S$ 150K",
+    "category": "Items"
+  },
+  {
+    "name": "Joyous Hat",
+    "trueVal": "S$ 115K",
+    "proto": "20",
+    "tradeHub": "S$ 136K",
+    "category": "Items"
+  },
+  {
+    "name": "Poyastar",
+    "trueVal": "S$ 120K",
+    "proto": "20",
+    "tradeHub": "S$ 117K",
+    "category": "Items"
+  },
+  {
+    "name": "Tidepiercer",
+    "trueVal": "S$ 10K",
+    "proto": "20",
+    "tradeHub": "S$ 16.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Bubblecrest Sceptre",
+    "trueVal": "S$ 175K",
+    "proto": "20",
+    "tradeHub": "S$ 130K",
+    "category": "Items"
+  },
+  {
+    "name": "Dionysus's Chalice",
+    "trueVal": "S$ 15K",
+    "proto": "20",
+    "tradeHub": "S$ 48.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Onslaught",
+    "trueVal": "S$ 175K",
+    "proto": "20",
+    "tradeHub": "S$ 164K",
+    "category": "Items"
+  },
+  {
+    "name": "Biggy Bubble",
+    "trueVal": "S$ 105K",
+    "proto": "20",
+    "tradeHub": "S$ 85.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Crested Dragon Wings",
+    "trueVal": "S$ 101K",
+    "proto": "20",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Grandmaster Key",
+    "trueVal": "N/A",
+    "proto": "20",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bandit Squid",
+    "trueVal": "S$ 190K",
+    "proto": "20",
+    "tradeHub": "S$ 171K",
+    "category": "Items"
+  },
+  {
+    "name": "Soulflayer",
+    "trueVal": "N/A",
+    "proto": "20",
+    "tradeHub": "S$ 250K",
+    "category": "Items"
+  },
+  {
+    "name": "Stellarweaver",
+    "trueVal": "N/A",
+    "proto": "20",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bubbly Benediction",
+    "trueVal": "S$ 130K",
+    "proto": "20",
+    "tradeHub": "S$ 127K",
+    "category": "Items"
+  },
+  {
+    "name": "Joyous Lollipop",
+    "trueVal": "S$ 180K",
+    "proto": "20",
+    "tradeHub": "S$ 175K",
+    "category": "Items"
+  },
+  {
+    "name": "Mighty Pencil",
+    "trueVal": "S$ 195K",
+    "proto": "20",
+    "tradeHub": "S$ 184K",
+    "category": "Items"
+  },
+  {
+    "name": "Bunvoyage",
+    "trueVal": "S$ 115K",
+    "proto": "20",
+    "tradeHub": "S$ 168K",
+    "category": "Items"
+  },
+  {
+    "name": "Raven's Hush",
+    "trueVal": "S$ 375K",
+    "proto": "20",
+    "tradeHub": "S$ 250K",
+    "category": "Items"
+  },
+  {
+    "name": "Twilight's Wildcard",
+    "trueVal": "S$ 80K",
+    "proto": "20",
+    "tradeHub": "S$ 95.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Krampus Curse",
+    "trueVal": "S$ 135K",
+    "proto": "20",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Spirit of the Eclipse",
+    "trueVal": "N/A",
+    "proto": "18.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Froggy Snips",
+    "trueVal": "S$ 130K",
+    "proto": "18",
+    "tradeHub": "S$ 121K",
+    "category": "Items"
+  },
+  {
+    "name": "Somber Oath",
+    "trueVal": "S$ 134K",
+    "proto": "18",
+    "tradeHub": "S$ 125K",
+    "category": "Items"
+  },
+  {
+    "name": "Pow-Nom",
+    "trueVal": "S$ 120K",
+    "proto": "18",
+    "tradeHub": "S$ 112K",
+    "category": "Items"
+  },
+  {
+    "name": "Arteria",
+    "trueVal": "S$ 165K",
+    "proto": "18",
+    "tradeHub": "S$ 124K",
+    "category": "Items"
+  },
+  {
+    "name": "Cupid's Cut",
+    "trueVal": "S$ 145K",
+    "proto": "18",
+    "tradeHub": "S$ 137K",
+    "category": "Items"
+  },
+  {
+    "name": "Blightwing",
+    "trueVal": "S$ 250K",
+    "proto": "18",
+    "tradeHub": "S$ 350K",
+    "category": "Items"
+  },
+  {
+    "name": "Sakura Soarer",
+    "trueVal": "S$ 75K",
+    "proto": "18",
+    "tradeHub": "S$ 72.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Imperial Mauve",
+    "trueVal": "S$ 120K",
+    "proto": "18",
+    "tradeHub": "S$ 119K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Cruiser",
+    "trueVal": "S$ 50K",
+    "proto": "18",
+    "tradeHub": "S$ 82K",
+    "category": "Items"
+  },
+  {
+    "name": "Jet of the Exalted",
+    "trueVal": "S$ 100K",
+    "proto": "18",
+    "tradeHub": "S$ 108K",
+    "category": "Items"
+  },
+  {
+    "name": "Illuma",
+    "trueVal": "S$ 60K",
+    "proto": "18",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Hourglass Boat",
+    "trueVal": "N/A",
+    "proto": "16.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Loot Rider",
+    "trueVal": "S$ 3.5K",
+    "proto": "16.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Patchy Glider",
+    "trueVal": "S$ 65K",
+    "proto": "15",
+    "tradeHub": "S$ 60K",
+    "category": "Items"
+  },
+  {
+    "name": "Skeletal Death",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wisteria Scythe",
+    "trueVal": "S$ 120K",
+    "proto": "15",
+    "tradeHub": "S$ 110K",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Pawster",
+    "trueVal": "S$ 100K",
+    "proto": "15",
+    "tradeHub": "S$ 85.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Spiritflutter",
+    "trueVal": "S$ 60K",
+    "proto": "15",
+    "tradeHub": "S$ 90K",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Goliath",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "S$ 365K",
+    "category": "Items"
+  },
+  {
+    "name": "Speakerwings",
+    "trueVal": "S$ 60K",
+    "proto": "15",
+    "tradeHub": "S$ 59.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Skygold Sprinter",
+    "trueVal": "S$ 3K",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frutiger Tunes",
+    "trueVal": "S$ 125K",
+    "proto": "15",
+    "tradeHub": "S$ 150K",
+    "category": "Items"
+  },
+  {
+    "name": "Cobalt Corsair",
+    "trueVal": "S$ 3K",
+    "proto": "15",
+    "tradeHub": "S$ 3.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Sovereign",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tanuki Trinket",
+    "trueVal": "S$ 55K",
+    "proto": "15",
+    "tradeHub": "S$ 93.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Raijin’s Wrath",
+    "trueVal": "S$ 65K",
+    "proto": "15",
+    "tradeHub": "S$ 49.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Relic",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Angel's Minigame",
+    "trueVal": "S$ 120K",
+    "proto": "15",
+    "tradeHub": "S$ 112K",
+    "category": "Items"
+  },
+  {
+    "name": "Waffle Rod",
+    "trueVal": "S$ 75K",
+    "proto": "15",
+    "tradeHub": "S$ 135K",
+    "category": "Items"
+  },
+  {
+    "name": "Emerald Lagoon",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Peppermint Purrs",
+    "trueVal": "S$ 28K",
+    "proto": "15",
+    "tradeHub": "S$ 75.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Head of Cthulu",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shadowfell's Reckoning",
+    "trueVal": "S$ 119K",
+    "proto": "15",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Arachne",
+    "trueVal": "S$ 120K",
+    "proto": "15",
+    "tradeHub": "S$ 152K",
+    "category": "Items"
+  },
+  {
+    "name": "Novaris",
+    "trueVal": "S$ 44K",
+    "proto": "15",
+    "tradeHub": "S$ 106K",
+    "category": "Items"
+  },
+  {
+    "name": "Mecha Ray",
+    "trueVal": "S$ 90K",
+    "proto": "15",
+    "tradeHub": "S$ 105K",
+    "category": "Items"
+  },
+  {
+    "name": "Bubblegum Ripper",
+    "trueVal": "S$ 130K",
+    "proto": "15",
+    "tradeHub": "S$ 108K",
+    "category": "Items"
+  },
+  {
+    "name": "Fishi Citrus",
+    "trueVal": "S$ 100K",
+    "proto": "15",
+    "tradeHub": "S$ 96.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Poseidon's Wrath",
+    "trueVal": "N/A",
+    "proto": "15",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Starcrusher",
+    "trueVal": "S$ 185K",
+    "proto": "14",
+    "tradeHub": "S$ 150K",
+    "category": "Items"
+  },
+  {
+    "name": "Midas Spirit",
+    "trueVal": "N/A",
+    "proto": "13.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Citrus Sail",
+    "trueVal": "S$ 71K",
+    "proto": "13",
+    "tradeHub": "S$ 63.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Coquette",
+    "trueVal": "S$ 100K",
+    "proto": "13",
+    "tradeHub": "S$ 114K",
+    "category": "Items"
+  },
+  {
+    "name": "Hades' Servitude",
+    "trueVal": "S$ 50K",
+    "proto": "13",
+    "tradeHub": "S$ 57.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Nightly Blossom",
+    "trueVal": "S$ 106K",
+    "proto": "12",
+    "tradeHub": "S$ 101K",
+    "category": "Items"
+  },
+  {
+    "name": "Gleeb 9000",
+    "trueVal": "S$ 50K",
+    "proto": "12",
+    "tradeHub": "S$ 104K",
+    "category": "Items"
+  },
+  {
+    "name": "Velocitide",
+    "trueVal": "S$ 60K",
+    "proto": "12",
+    "tradeHub": "S$ 69.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Glitchseeker",
+    "trueVal": "N/A",
+    "proto": "12",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Warp Star",
+    "trueVal": "S$ 15K",
+    "proto": "11.7",
+    "tradeHub": "S$ 15.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Witchy Ember",
+    "trueVal": "S$ 55K",
+    "proto": "11",
+    "tradeHub": "S$ 50.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Hand of Slime",
+    "trueVal": "S$ 35K",
+    "proto": "11",
+    "tradeHub": "S$ 48.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Gummy Bam!",
+    "trueVal": "S$ 110K",
+    "proto": "11",
+    "tradeHub": "S$ 93.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Sweet Scratches",
+    "trueVal": "S$ 150K",
+    "proto": "11",
+    "tradeHub": "S$ 133K",
+    "category": "Items"
+  },
+  {
+    "name": "Galactic Virge",
+    "trueVal": "S$ 34K",
+    "proto": "10",
+    "tradeHub": "S$ 39.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Banana of the Depths",
+    "trueVal": "S$ 35K",
+    "proto": "10",
+    "tradeHub": "S$ 88.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Scorpferno",
+    "trueVal": "S$ 37K",
+    "proto": "10",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Pearsicle",
+    "trueVal": "S$ 70K",
+    "proto": "10",
+    "tradeHub": "S$ 68.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Silkwings",
+    "trueVal": "S$ 75K",
+    "proto": "10",
+    "tradeHub": "S$ 66.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Mega Seal",
+    "trueVal": "S$ 95.5K",
+    "proto": "10",
+    "tradeHub": "S$ 147K",
+    "category": "Items"
+  },
+  {
+    "name": "Marlin Zenith",
+    "trueVal": "N/A",
+    "proto": "10",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crystallized Dagger",
+    "trueVal": "N/A",
+    "proto": "10",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fierce Sushi",
+    "trueVal": "S$ 75K",
+    "proto": "10",
+    "tradeHub": "S$ 69.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Fishscale Waverider",
+    "trueVal": "N/A",
+    "proto": "10",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rod of the Gemmer",
+    "trueVal": "S$ 500",
+    "proto": "10",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Ghoul",
+    "trueVal": "N/A",
+    "proto": "10",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie Rod",
+    "trueVal": "S$ 120K",
+    "proto": "9",
+    "tradeHub": "S$ 150K",
+    "category": "Items"
+  },
+  {
+    "name": "Ecosync",
+    "trueVal": "S$ 60K",
+    "proto": "9",
+    "tradeHub": "S$ 57.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Evergreene",
+    "trueVal": "S$ 65K",
+    "proto": "9",
+    "tradeHub": "S$ 71.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Lemeownade",
+    "trueVal": "S$ 70K",
+    "proto": "9",
+    "tradeHub": "S$ 61.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Coralhook",
+    "trueVal": "S$ 450",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bloodwing",
+    "trueVal": "S$ 1K",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Driftblub",
+    "trueVal": "S$ 3K",
+    "proto": "8.3",
+    "tradeHub": "S$ 2.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Challenger of Marlin",
+    "trueVal": "N/A",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Midas Shears",
+    "trueVal": "N/A",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spirit of the Depths",
+    "trueVal": "N/A",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Illumina",
+    "trueVal": "N/A",
+    "proto": "8.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Phoenix Skate",
+    "trueVal": "S$ 45K",
+    "proto": "8",
+    "tradeHub": "S$ 45.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Red Racer",
+    "trueVal": "S$ 15K",
+    "proto": "8",
+    "tradeHub": "S$ 16.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Chicken Leg",
+    "trueVal": "S$ 300K",
+    "proto": "8",
+    "tradeHub": "S$ 645K",
+    "category": "Items"
+  },
+  {
+    "name": "Carrot Hopper",
+    "trueVal": "S$ 50K",
+    "proto": "8",
+    "tradeHub": "S$ 68.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Deepened Ink",
+    "trueVal": "S$ 6K",
+    "proto": "8",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sickle of Krampus",
+    "trueVal": "S$ 60K",
+    "proto": "8",
+    "tradeHub": "S$ 60K",
+    "category": "Items"
+  },
+  {
+    "name": "Burgerbound",
+    "trueVal": "S$ 65K",
+    "proto": "8",
+    "tradeHub": "S$ 58.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Hoverslime",
+    "trueVal": "S$ 45K",
+    "proto": "8",
+    "tradeHub": "S$ 99.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Fishcake Snack",
+    "trueVal": "S$ 65K",
+    "proto": "8",
+    "tradeHub": "S$ 71.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Shrimply Delicious",
+    "trueVal": "S$ 82K",
+    "proto": "8",
+    "tradeHub": "S$ 70.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Luxcutter",
+    "trueVal": "S$ 75K",
+    "proto": "8",
+    "tradeHub": "S$ 67.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Lagoon Tidebreaker",
+    "trueVal": "N/A",
+    "proto": "8",
+    "tradeHub": "S$ 130K",
+    "category": "Items"
+  },
+  {
+    "name": "Galactic Tentacles",
+    "trueVal": "N/A",
+    "proto": "8",
+    "tradeHub": "S$ 560K",
+    "category": "Items"
+  },
+  {
+    "name": "Atlantean Jetski",
+    "trueVal": "S$ 7.3K",
+    "proto": "8",
+    "tradeHub": "S$ 7.0K",
+    "category": "Items"
+  },
+  {
+    "name": "The Mawrider",
+    "trueVal": "S$ 10K",
+    "proto": "7.5",
+    "tradeHub": "S$ 10.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Frosted Oscar",
+    "trueVal": "S$ 10.4K",
+    "proto": "7.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunny Ducky",
+    "trueVal": "S$ 50K",
+    "proto": "7.5",
+    "tradeHub": "S$ 100K",
+    "category": "Items"
+  },
+  {
+    "name": "Gothic Archer",
+    "trueVal": "S$ 70K",
+    "proto": "7.5",
+    "tradeHub": "S$ 66.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Bloom of Delicacy",
+    "trueVal": "S$ 41K",
+    "proto": "7.5",
+    "tradeHub": "S$ 47.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Stygian Winter",
+    "trueVal": "S$ 70K",
+    "proto": "7.5",
+    "tradeHub": "S$ 65.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Monsleeper Rod",
+    "trueVal": "S$ 52K",
+    "proto": "7.5",
+    "tradeHub": "S$ 126K",
+    "category": "Items"
+  },
+  {
+    "name": "Pineapple Play",
+    "trueVal": "S$ 50K",
+    "proto": "7.5",
+    "tradeHub": "S$ 94.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Bunny Jetski",
+    "trueVal": "S$ 24K",
+    "proto": "7",
+    "tradeHub": "S$ 54.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Pink Rebel Kitty",
+    "trueVal": "S$ 3K",
+    "proto": "7",
+    "tradeHub": "S$ 4K",
+    "category": "Items"
+  },
+  {
+    "name": "Exclamatorius",
+    "trueVal": "S$ 45K",
+    "proto": "7",
+    "tradeHub": "S$ 48.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Sealphone",
+    "trueVal": "S$ 34K",
+    "proto": "7",
+    "tradeHub": "S$ 38.3K",
+    "category": "Items"
+  },
+  {
+    "name": "uLemon",
+    "trueVal": "S$ 60K",
+    "proto": "7",
+    "tradeHub": "S$ 60K",
+    "category": "Items"
+  },
+  {
+    "name": "Glug",
+    "trueVal": "S$ 26K",
+    "proto": "7",
+    "tradeHub": "S$ 25K",
+    "category": "Items"
+  },
+  {
+    "name": "Icedolon",
+    "trueVal": "N/A",
+    "proto": "7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Red Riff Kitty",
+    "trueVal": "S$ 31K",
+    "proto": "7",
+    "tradeHub": "S$ 33.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Toro Veloce",
+    "trueVal": "S$ 19K",
+    "proto": "7",
+    "tradeHub": "S$ 26.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Widow's Veil",
+    "trueVal": "S$ 16K",
+    "proto": "7",
+    "tradeHub": "S$ 39.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Lady Unicorn",
+    "trueVal": "S$ 32K",
+    "proto": "7",
+    "tradeHub": "S$ 30.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Meteor Blade",
+    "trueVal": "S$ 45K",
+    "proto": "7",
+    "tradeHub": "S$ 38.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Gravedigger",
+    "trueVal": "S$ 50K",
+    "proto": "7",
+    "tradeHub": "S$ 54.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Memories Of Gold",
+    "trueVal": "S$ 7.6K",
+    "proto": "6.7",
+    "tradeHub": "S$ 8.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Midas Lagoon",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Voidcaller",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Conduit",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "No Violet Rod",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spirit Seeker",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eternal Marlin",
+    "trueVal": "N/A",
+    "proto": "6.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jelli Melon",
+    "trueVal": "S$ 40K",
+    "proto": "6.5",
+    "tradeHub": "S$ 51.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Sparkizzle",
+    "trueVal": "S$ 50K",
+    "proto": "6.5",
+    "tradeHub": "S$ 44.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Thief of Time",
+    "trueVal": "S$ 42K",
+    "proto": "6.5",
+    "tradeHub": "S$ 40.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Cherry Boom",
+    "trueVal": "S$ 38.5K",
+    "proto": "6.5",
+    "tradeHub": "S$ 36.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Fizzfin",
+    "trueVal": "S$ 50K",
+    "proto": "6.5",
+    "tradeHub": "S$ 44.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Viridbane",
+    "trueVal": "S$ 300K",
+    "proto": "6",
+    "tradeHub": "S$ 440K",
+    "category": "Items"
+  },
+  {
+    "name": "Regal Harmony",
+    "trueVal": "S$ 73K",
+    "proto": "6",
+    "tradeHub": "S$ 88.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Devil’s Trident",
+    "trueVal": "N/A",
+    "proto": "6",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Divine Ascension",
+    "trueVal": "S$ 8K",
+    "proto": "6",
+    "tradeHub": "S$ 10.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Pegasus",
+    "trueVal": "S$ 40K",
+    "proto": "6",
+    "tradeHub": "S$ 41K",
+    "category": "Items"
+  },
+  {
+    "name": "Stellar Labrys",
+    "trueVal": "S$ 175K",
+    "proto": "6",
+    "tradeHub": "S$ 167K",
+    "category": "Items"
+  },
+  {
+    "name": "Meanie Dog",
+    "trueVal": "S$ 33K",
+    "proto": "6",
+    "tradeHub": "S$ 32.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Appl Cider",
+    "trueVal": "S$ 70K",
+    "proto": "6",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Cryo Cerulean",
+    "trueVal": "N/A",
+    "proto": "6",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sundawn",
+    "trueVal": "N/A",
+    "proto": "6",
+    "tradeHub": "S$ 930K",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Cat",
+    "trueVal": "S$ 20K",
+    "proto": "6",
+    "tradeHub": "S$ 22.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar Lullaby",
+    "trueVal": "S$ 50K",
+    "proto": "6",
+    "tradeHub": "S$ 60K",
+    "category": "Items"
+  },
+  {
+    "name": "Fisch Jet",
+    "trueVal": "S$ 37K",
+    "proto": "5.5",
+    "tradeHub": "S$ 40.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Milku Strawberry",
+    "trueVal": "S$ 26K",
+    "proto": "5.5",
+    "tradeHub": "S$ 26.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Pengu",
+    "trueVal": "N/A",
+    "proto": "5.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Doze-y-odon",
+    "trueVal": "S$ 20K",
+    "proto": "5.5",
+    "tradeHub": "S$ 20K",
+    "category": "Items"
+  },
+  {
+    "name": "Eternal Shears",
+    "trueVal": "S$ 35K",
+    "proto": "5",
+    "tradeHub": "S$ 39.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Cherub's Chill",
+    "trueVal": "S$ 37K",
+    "proto": "5",
+    "tradeHub": "S$ 41K",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Claws",
+    "trueVal": "S$ 60K",
+    "proto": "5",
+    "tradeHub": "S$ 51.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Timeless Steel",
+    "trueVal": "S$ 29K",
+    "proto": "5",
+    "tradeHub": "S$ 40.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Frostbite Piercer",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Runeflare",
+    "trueVal": "S$ 72K",
+    "proto": "5",
+    "tradeHub": "S$ 98.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Neon Arrow",
+    "trueVal": "S$ 15K",
+    "proto": "5",
+    "tradeHub": "S$ 13.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Rainbow Spirit",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucky Tinkerer",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Calvin’s Revenge",
+    "trueVal": "S$ 15K",
+    "proto": "5",
+    "tradeHub": "S$ 30.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Cutie Sardines",
+    "trueVal": "S$ 30K",
+    "proto": "5",
+    "tradeHub": "S$ 29.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Dutchman's Spirit",
+    "trueVal": "S$ 3.5K",
+    "proto": "5",
+    "tradeHub": "S$ 3.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Witch's Broom",
+    "trueVal": "S$ 4.5K",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostpiercer",
+    "trueVal": "S$ 15K",
+    "proto": "5",
+    "tradeHub": "S$ 41.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Long Pike",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "S$ 90K",
+    "category": "Items"
+  },
+  {
+    "name": "Eternal Ghoul",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sanguisfalx",
+    "trueVal": "S$ 33K",
+    "proto": "5",
+    "tradeHub": "S$ 71.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Mourning Bloom",
+    "trueVal": "S$ 32.5K",
+    "proto": "5",
+    "tradeHub": "S$ 34.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Etherium",
+    "trueVal": "S$ 5.5K",
+    "proto": "5",
+    "tradeHub": "S$ 7.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Gemfly Rod",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mighty Magma",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "S'more Speedster",
+    "trueVal": "S$ 30K",
+    "proto": "5",
+    "tradeHub": "S$ 26.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Sharkie Floatie",
+    "trueVal": "S$ 41K",
+    "proto": "5",
+    "tradeHub": "S$ 39.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Tideglass",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pond Splasher",
+    "trueVal": "S$ 600K",
+    "proto": "5",
+    "tradeHub": "S$ 2M",
+    "category": "Items"
+  },
+  {
+    "name": "Milku Original",
+    "trueVal": "S$ 22K",
+    "proto": "5",
+    "tradeHub": "S$ 22.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Gondola",
+    "trueVal": "N/A",
+    "proto": "5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Decadent Cutlass",
+    "trueVal": "S$ 34K",
+    "proto": "5",
+    "tradeHub": "S$ 38.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Milku Banana",
+    "trueVal": "S$ 14K",
+    "proto": "4.5",
+    "tradeHub": "S$ 20.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Pixel Passion",
+    "trueVal": "S$ 28K",
+    "proto": "4.5",
+    "tradeHub": "S$ 31.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Icedagger",
+    "trueVal": "S$ 40K",
+    "proto": "4.5",
+    "tradeHub": "S$ 39.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Luvly Bunny Wand",
+    "trueVal": "N/A",
+    "proto": "4.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sinister Gates",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rainbows Blessing",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Draconic Champion",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "S$ 2.3M",
+    "category": "Items"
+  },
+  {
+    "name": "Red Carbon",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Violet Kraken",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cardistry Bun",
+    "trueVal": "S$ 25K",
+    "proto": "4",
+    "tradeHub": "S$ 31.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Dreadcurrent",
+    "trueVal": "S$ 25K",
+    "proto": "4",
+    "tradeHub": "S$ 31.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Fruitshido",
+    "trueVal": "S$ 27K",
+    "proto": "4",
+    "tradeHub": "S$ 27.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Jaded Spire",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Velvet's Jelly",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "S$ 335K",
+    "category": "Items"
+  },
+  {
+    "name": "Lucid Dreamer",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Requne Grape",
+    "trueVal": "S$ 40K",
+    "proto": "4",
+    "tradeHub": "S$ 39.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Petal Power",
+    "trueVal": "S$ 12K",
+    "proto": "4",
+    "tradeHub": "S$ 11.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Pinkly Whale",
+    "trueVal": "S$ 12K",
+    "proto": "4",
+    "tradeHub": "S$ 12.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Rod of the Dino Fang",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "No Melody",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Digital Core",
+    "trueVal": "S$ 25K",
+    "proto": "4",
+    "tradeHub": "S$ 21K",
+    "category": "Items"
+  },
+  {
+    "name": "Hellbringer",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bluely Whale",
+    "trueVal": "S$ 9.1K",
+    "proto": "4",
+    "tradeHub": "S$ 9.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Victors Grace",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "S$ 156K",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Spectre",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "S$ 95K",
+    "category": "Items"
+  },
+  {
+    "name": "Core of the Lagoon",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crescent Cradle",
+    "trueVal": "S$ 35K",
+    "proto": "4",
+    "tradeHub": "S$ 40K",
+    "category": "Items"
+  },
+  {
+    "name": "Leviathan's Trident",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heaven’s Love",
+    "trueVal": "S$ 9.3K",
+    "proto": "4",
+    "tradeHub": "S$ 16.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Easter Basket",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tundra Strike",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mosslurker Boat",
+    "trueVal": "S$ 14.8K",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dead Trident",
+    "trueVal": "N/A",
+    "proto": "4",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pretty Painter",
+    "trueVal": "S$ 15K",
+    "proto": "3.5",
+    "tradeHub": "S$ 14.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Lovebyte",
+    "trueVal": "S$ 27.5K",
+    "proto": "3.5",
+    "tradeHub": "S$ 31K",
+    "category": "Items"
+  },
+  {
+    "name": "Scylla’s Shadow",
+    "trueVal": "N/A",
+    "proto": "3.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heartseeker Bat",
+    "trueVal": "N/A",
+    "proto": "3.5",
+    "tradeHub": "S$ 45K",
+    "category": "Items"
+  },
+  {
+    "name": "Encore",
+    "trueVal": "S$ 27.5K",
+    "proto": "3.5",
+    "tradeHub": "S$ 25K",
+    "category": "Items"
+  },
+  {
+    "name": "Crimson Solace",
+    "trueVal": "S$ 25K",
+    "proto": "3.5",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Forgotten Doomspire",
+    "trueVal": "N/A",
+    "proto": "3.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Meows",
+    "trueVal": "S$ 21K",
+    "proto": "3.5",
+    "tradeHub": "S$ 20.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Slimebound",
+    "trueVal": "N/A",
+    "proto": "3.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Soul of Scylla",
+    "trueVal": "N/A",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Reborn Flying Dutchman",
+    "trueVal": "N/A",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Violetfly",
+    "trueVal": "N/A",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eldritch Sovereign",
+    "trueVal": "N/A",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Flying Dutchman",
+    "trueVal": "S$ 1K",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Constrictor",
+    "trueVal": "S$ 39",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cthulu's Cranium",
+    "trueVal": "N/A",
+    "proto": "3.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostmourner",
+    "trueVal": "S$ 20K",
+    "proto": "3",
+    "tradeHub": "S$ 23.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Vampiric Fang",
+    "trueVal": "S$ 8K",
+    "proto": "3",
+    "tradeHub": "S$ 10K",
+    "category": "Items"
+  },
+  {
+    "name": "Neptune's Edge",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "S$ 425K",
+    "category": "Items"
+  },
+  {
+    "name": "Prismatic Lightkeeper",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nekoflip",
+    "trueVal": "S$ 21K",
+    "proto": "3",
+    "tradeHub": "S$ 25K",
+    "category": "Items"
+  },
+  {
+    "name": "Flame Leviathan",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sugarspike",
+    "trueVal": "S$ 11.1K",
+    "proto": "3",
+    "tradeHub": "S$ 8.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Rainbow Revolution",
+    "trueVal": "S$ 20K",
+    "proto": "3",
+    "tradeHub": "S$ 16.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Frostfang",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Candy Crawlie",
+    "trueVal": "S$ 43K",
+    "proto": "3",
+    "tradeHub": "S$ 53.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Sapphire Blossom",
+    "trueVal": "S$ 120K",
+    "proto": "3",
+    "tradeHub": "S$ 306K",
+    "category": "Items"
+  },
+  {
+    "name": "Dragon’s Vigilance",
+    "trueVal": "S$ 12.6K",
+    "proto": "3",
+    "tradeHub": "S$ 15.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Sleepy Bear",
+    "trueVal": "S$ 20K",
+    "proto": "3",
+    "tradeHub": "S$ 20.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Wrath of Zeus",
+    "trueVal": "S$ 850K",
+    "proto": "3",
+    "tradeHub": "S$ 1M",
+    "category": "Items"
+  },
+  {
+    "name": "Seraphs Judgment",
+    "trueVal": "S$ 1M",
+    "proto": "3",
+    "tradeHub": "S$ 2.7M",
+    "category": "Items"
+  },
+  {
+    "name": "Midas Avalanche",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Gripper",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "S$ 7.2M",
+    "category": "Items"
+  },
+  {
+    "name": "Aetherwrath",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Arcspine",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "S$ 626K",
+    "category": "Items"
+  },
+  {
+    "name": "Angelic Meows",
+    "trueVal": "S$ 30K",
+    "proto": "3",
+    "tradeHub": "S$ 29.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Flipper Express",
+    "trueVal": "S$ 12.5K",
+    "proto": "3",
+    "tradeHub": "S$ 15K",
+    "category": "Items"
+  },
+  {
+    "name": "Bonecaller's Spire",
+    "trueVal": "N/A",
+    "proto": "3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Akagiri",
+    "trueVal": "S$ 14K",
+    "proto": "3",
+    "tradeHub": "S$ 40.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Stormbringer",
+    "trueVal": "N/A",
+    "proto": "2.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vespera's Dream",
+    "trueVal": "S$ 13.5K",
+    "proto": "2.5",
+    "tradeHub": "S$ 13.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Darkheart",
+    "trueVal": "S$ 15K",
+    "proto": "2.5",
+    "tradeHub": "S$ 43K",
+    "category": "Items"
+  },
+  {
+    "name": "Guardian of Atlantis",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crazy Naynay",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Caelum Lullaby",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Drac-u-Cutie",
+    "trueVal": "S$ 15K",
+    "proto": "2.5",
+    "tradeHub": "S$ 16.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Chilly Cub",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Staff of the Phoenix",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Captain's Goldfish",
+    "trueVal": "S$ 15K",
+    "proto": "2.5",
+    "tradeHub": "S$ 23.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Whaleski",
+    "trueVal": "S$ 14.7K",
+    "proto": "2.5",
+    "tradeHub": "S$ 15.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Mummy Puppy",
+    "trueVal": "S$ 16K",
+    "proto": "2.5",
+    "tradeHub": "S$ 16.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Lovely Locket",
+    "trueVal": "N/A",
+    "proto": "2.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stormbreaker Trident",
+    "trueVal": "N/A",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sleigh",
+    "trueVal": "S$ 165",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Fang",
+    "trueVal": "N/A",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Anchor of the Sleeper",
+    "trueVal": "N/A",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heavenly Coral",
+    "trueVal": "N/A",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Quacker",
+    "trueVal": "S$ 3.1K",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Atlantean Quacker",
+    "trueVal": "S$ 100",
+    "proto": "2.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lagoon's Shard",
+    "trueVal": "S$ 7.5K",
+    "proto": "2",
+    "tradeHub": "S$ 7.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Little Boo",
+    "trueVal": "S$ 6.5K",
+    "proto": "2",
+    "tradeHub": "S$ 6.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Axofloatie",
+    "trueVal": "S$ 11.6K",
+    "proto": "2",
+    "tradeHub": "S$ 12.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Orca’s Demise",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pirate Trident",
+    "trueVal": "S$ 10K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dreamer’s Redemption",
+    "trueVal": "S$ 4K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heartless",
+    "trueVal": "S$ 13.5K",
+    "proto": "2",
+    "tradeHub": "S$ 15.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Colonist",
+    "trueVal": "S$ 2K",
+    "proto": "2",
+    "tradeHub": "S$ 2.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Forgotten Serpent",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Obsidian Key",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Serpent Cruiser",
+    "trueVal": "S$ 3.4K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lotus",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "White Blade",
+    "trueVal": "S$ 3.7K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowmobile Jetski",
+    "trueVal": "S$ 1.8K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Molten Jetski",
+    "trueVal": "S$ 7.5K",
+    "proto": "2",
+    "tradeHub": "S$ 8.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Wildflower Spectra",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Black Opal",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Scarlet Saber",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fabulous Gift",
+    "trueVal": "S$ 19K",
+    "proto": "2",
+    "tradeHub": "S$ 21.9K",
+    "category": "Items"
+  },
+  {
+    "name": "King’s Throne",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Santa’s Jetski",
+    "trueVal": "N/A",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cozy Sled",
+    "trueVal": "S$ 5K",
+    "proto": "2",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crowned Glory",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sandslasher Boat",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coral Specter",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Reindeer Cruiser",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Whispering Tentacles",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Swan Boat",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostledge",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Titan’s Spine",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ocean Monarch",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fallen Angel",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Neptune's Demand",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silent Zenith",
+    "trueVal": "N/A",
+    "proto": "1.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pineslicer",
+    "trueVal": "S$ 5.5K",
+    "proto": "1.5",
+    "tradeHub": "S$ 13.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Monarch Charm",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spade of Sorrow",
+    "trueVal": "S$ 16.3K",
+    "proto": "1.5",
+    "tradeHub": "S$ 18.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Spooky Swirl",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunflower",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hollywave Cruiser",
+    "trueVal": "S$ 6.6K",
+    "proto": "1.5",
+    "tradeHub": "S$ 12.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Unfortunate Present",
+    "trueVal": "S$ 4.4K",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sea Pegasus",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie Nomad",
+    "trueVal": "S$ 10.4K",
+    "proto": "1.5",
+    "tradeHub": "S$ 10.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Lumalee",
+    "trueVal": "S$ 7K",
+    "proto": "1.5",
+    "tradeHub": "S$ 10.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Megaladon’s Tooth",
+    "trueVal": "S$ 8K",
+    "proto": "1.5",
+    "tradeHub": "S$ 13.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Magenta Mayhem",
+    "trueVal": "S$ 17K",
+    "proto": "1.5",
+    "tradeHub": "S$ 16.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Waffle",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lion’s Fury",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Aquabriar",
+    "trueVal": "S$ 13K",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pride of Fisch",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Krampus Fang",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Golden Roar",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fishbowl",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Devil's Delicacy",
+    "trueVal": "S$ 8K",
+    "proto": "1.5",
+    "tradeHub": "S$ 7.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Dango Paradise",
+    "trueVal": "S$ 22.5K",
+    "proto": "1.5",
+    "tradeHub": "S$ 24K",
+    "category": "Items"
+  },
+  {
+    "name": "Soft Stocking",
+    "trueVal": "S$ 11K",
+    "proto": "1.5",
+    "tradeHub": "S$ 10.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Orion's Trace",
+    "trueVal": "S$ 8.7K",
+    "proto": "1.5",
+    "tradeHub": "S$ 7.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Rosebud Rod",
+    "trueVal": "S$ 9.2K",
+    "proto": "1.5",
+    "tradeHub": "S$ 8.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Tubert Beetle",
+    "trueVal": "S$ 9K",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stereo Catness",
+    "trueVal": "S$ 9.7K",
+    "proto": "1.5",
+    "tradeHub": "S$ 11.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Desolate Dragon",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Seabun Scepter",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Neon Beats",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cosmic Eruption",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Luminol Calamity",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spinal Spectrum",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clock's Locket",
+    "trueVal": "S$ 1.4K",
+    "proto": "1.5",
+    "tradeHub": "S$ 1.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Chromatic Cascade",
+    "trueVal": "S$ 11.9K",
+    "proto": "1.5",
+    "tradeHub": "S$ 15.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Signal 02",
+    "trueVal": "S$ 14.4K",
+    "proto": "1.5",
+    "tradeHub": "S$ 4.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Fyregem",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Seabunny",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "S$ 55K",
+    "category": "Items"
+  },
+  {
+    "name": "Lovely Key",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mistletoe Prism",
+    "trueVal": "N/A",
+    "proto": "1.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Ghoul",
+    "trueVal": "N/A",
+    "proto": "1.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Beauty",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tri-Brick Rider",
+    "trueVal": "S$ 3.7K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Candy Cane Serenade",
+    "trueVal": "S$ 8K",
+    "proto": "1",
+    "tradeHub": "S$ 9.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Glacial Blade",
+    "trueVal": "S$ 3.3K",
+    "proto": "1",
+    "tradeHub": "S$ 3.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Silent Speeder",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wisteria Petals",
+    "trueVal": "S$ 9.3K",
+    "proto": "1",
+    "tradeHub": "S$ 10.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Archaeological Boat",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jungle Explorer Boat",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vulcan's Blaze",
+    "trueVal": "S$ 8.2K",
+    "proto": "1",
+    "tradeHub": "S$ 9.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Fang",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Driftwind Weave",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Twig Of Triumph",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucky Racer",
+    "trueVal": "S$ 3.6K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Thornspike Branch",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Driftwood Voyager",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Scarlet Pirate Ship",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar Halo",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Orca boat",
+    "trueVal": "S$ 4K",
+    "proto": "1",
+    "tradeHub": "S$ 9.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Dark Monarch",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Royal Scepter",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Trenchkeeper",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Depth's Darkness",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie's Revelation",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar Prism",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Holiday Steampunk Ship",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Thunderbolt",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Long Violet",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Ascension",
+    "trueVal": "S$ 4.7K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Starry Tempest",
+    "trueVal": "S$ 40K",
+    "proto": "1",
+    "tradeHub": "S$ 50K",
+    "category": "Items"
+  },
+  {
+    "name": "Keeper of Regalia",
+    "trueVal": "S$ 9K",
+    "proto": "1",
+    "tradeHub": "S$ 9.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Coral Champion",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fischmas Jetski",
+    "trueVal": "S$ 3.5K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dumbo",
+    "trueVal": "S$ 5.6K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Vortex",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fallen King",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Magician's Cluster",
+    "trueVal": "S$ 7.5K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Rowboat",
+    "trueVal": "S$ 125",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Depth Growler",
+    "trueVal": "S$ 7.4K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cult Follower",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coral Cruiser",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Frog",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Relic",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Sage's Staff",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nebula",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Aurora",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Emberlight",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mighty Leek",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie's Skeleton",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Arctic Coral",
+    "trueVal": "S$ 36",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Trainer",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Arctic Explorer",
+    "trueVal": "S$ 270",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crimson Crystal",
+    "trueVal": "N/A",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clawberus",
+    "trueVal": "S$ 5.3K",
+    "proto": "1",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Archer's Mark",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Brick",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lumpy Boghopper",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Wreck",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "A Rock",
+    "trueVal": "S$ 120",
+    "proto": "0.7",
+    "tradeHub": "S$ 127",
+    "category": "Items"
+  },
+  {
+    "name": "The Essex Boat",
+    "trueVal": "S$ 500",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Volcano's Maw",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Purple Clover",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "The Lost Relic",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Whale Shark Boat",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Polar",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Explorer Diving Boat",
+    "trueVal": "N/A",
+    "proto": "0.7",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vintage Hatchboat",
+    "trueVal": "S$ 3.2K",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dead Fish Express",
+    "trueVal": "S$ 2.4K",
+    "proto": "0.5",
+    "tradeHub": "S$ 2.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Heaven’s Savior",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fischmas Speedboat",
+    "trueVal": "S$ 3K",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bombastic Carbon",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Irish Jig",
+    "trueVal": "S$ 3.6K",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Domodrum",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snake Charmer",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Polar Abyss",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Curser Banner Ship",
+    "trueVal": "N/A",
+    "proto": "0.5",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glowtail Branch",
+    "trueVal": "N/A",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pathfinders Grip",
+    "trueVal": "N/A",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Balloon Doggy",
+    "trueVal": "N/A",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Forager's Twig",
+    "trueVal": "N/A",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dr. Glimmerfin's Boat",
+    "trueVal": "S$ 200",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Petalwork Stem",
+    "trueVal": "N/A",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Holiday Themed Speedboat",
+    "trueVal": "S$ 7",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucky Pot",
+    "trueVal": "S$ 80",
+    "proto": "0.3",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bloop Boat",
+    "trueVal": "S$ 1.5K",
+    "proto": "0.25",
+    "tradeHub": "S$ 1.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Rowboat",
+    "trueVal": "N/A",
+    "proto": "0.0001",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Second Years Scythe",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Piercer",
+    "trueVal": "S$ 600",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frigid Beauty",
+    "trueVal": "S$ 1.8K",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucille",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Forestwing",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cyanbreaker",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar New Years Rocket",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bow of the Skies",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Amorifalx",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Requiem Aeternum",
+    "trueVal": "S$ 1.1K",
+    "proto": "0",
+    "tradeHub": "S$ 1.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Ruina Thalassae",
+    "trueVal": "S$ 500",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lamentum Maris",
+    "trueVal": "S$ 390",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Flamemourner",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lilaclash",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shadow Pole",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Minimalstrom",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blade of the Eclipse",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Scarlet",
+    "trueVal": "S$ 50",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowy Christmas",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Meowing Melody",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tideglass Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Carbon Meister",
+    "trueVal": "S$ 1.3K",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Boukar",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Aww Anchovies",
+    "trueVal": "S$ 10.5K",
+    "proto": "0",
+    "tradeHub": "S$ 9.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Pixel Pulse",
+    "trueVal": "S$ 46K",
+    "proto": "0",
+    "tradeHub": "S$ 50K",
+    "category": "Items"
+  },
+  {
+    "name": "Krampus's Miracle",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Solstice Striver",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Skeleton Scythe",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cobalt Rupturer",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tryhard Chroma",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Reverse Emberreach",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eidolon's Mistletoe",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gilded Staff",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Last Dance",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lime Silly Time",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Devstring",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucky Cloverblade",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dove Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eidolight",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Garnetbreaker",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Minty Fab",
+    "trueVal": "S$ 2.3K",
+    "proto": "0",
+    "tradeHub": "S$ 2.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Acidic Dusekkar",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Overgrowth",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silver Onirifalx",
+    "trueVal": "S$ 900",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "The Bomb Ball",
+    "trueVal": "S$ 220",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Canvas",
+    "trueVal": "S$ 3.3K",
+    "proto": "0",
+    "tradeHub": "S$ 2.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Fan!",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Different Flavor Popsicle?",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mr. Thankful",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Summer Beachblade",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "S$ 448K",
+    "category": "Items"
+  },
+  {
+    "name": "Tempest",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Poisonbinder",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Archaelogist Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stone Cluster Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Severed Voyager",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "OG",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Azure Phoenix",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowman (Boat)",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Trenchborn",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Witch's Pot",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "The Longest One",
+    "trueVal": "S$ 13.5K",
+    "proto": "0",
+    "tradeHub": "S$ 23.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Aquatic Curse",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunarhook",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Voidpiercer",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "S.S. Tuskhorn",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Elder Spirit",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heavenly Breeze",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Floppinator",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Biblically Accurate Seraphic Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dark Destiny",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silver Bolt",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shamrock Rainbow",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glorply Blade",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sacred Embrace",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Purple Carrot",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fang of the Moon",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Neongrinder",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Weird Chainsaw Rod",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Folk",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bigger Part",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baguette",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bassanjo",
+    "trueVal": "S$ 550",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hades' Rose-Scythe",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Makhroing",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cyan Oath",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Violet Dusk",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Zeus's Frostbolt",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stella Octangula",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evilwire",
+    "trueVal": "S$ 3.5K",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dragon Slayer",
+    "trueVal": "S$ 27.5K",
+    "proto": "0",
+    "tradeHub": "S$ 33K",
+    "category": "Items"
+  },
+  {
+    "name": "Driftwood",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dropley",
+    "trueVal": "S$ 15K",
+    "proto": "0",
+    "tradeHub": "S$ 16.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Monochrome Pitchfork",
+    "trueVal": "N/A",
+    "proto": "0",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vintage Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunny Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lil' Guy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Aurora Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostfire Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Holiday Candle Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Winter Ghost Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Beary Bright Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Honeycomb",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sharkie",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 290K",
+    "category": "Items"
+  },
+  {
+    "name": "Syrup",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Miniature Plane",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mosslit Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Summer Soaker",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coconut Drink",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Velvet Lamp",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lobster Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Journeyman Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Kitty Paw",
+    "trueVal": "S$ 140K",
+    "proto": "N/A",
+    "tradeHub": "S$ 307K",
+    "category": "Items"
+  },
+  {
+    "name": "Joystick",
+    "trueVal": "S$ 60K",
+    "proto": "N/A",
+    "tradeHub": "S$ 81.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Lucky Cat",
+    "trueVal": "S$ 12K",
+    "proto": "N/A",
+    "tradeHub": "S$ 20.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Pebble",
+    "trueVal": "S$ 13K",
+    "proto": "N/A",
+    "tradeHub": "S$ 13.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Easter Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Moon Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hippo Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wrathlight Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Leprechaun's Glow Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crystal Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Angler Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Molten Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Love Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Default Halo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gothic Crown",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "8Bit Love Halo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heart Halo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Astra",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Harmonious Crown of Order",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dino Spikes",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clover Halo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hana Halo",
+    "trueVal": "S$ 35K",
+    "proto": "N/A",
+    "tradeHub": "S$ 40.1K",
+    "category": "Items"
+  },
+  {
+    "name": "North Star",
+    "trueVal": "S$ 800",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frozen",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stone Claymore",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Anchor",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cliff Peak",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coral Reef",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fake Pufferfish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 2.1M",
+    "category": "Items"
+  },
+  {
+    "name": "Frozen Rubber Ducky",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Harp of Light",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Infested",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Large Leaf",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Terrapin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mushroom",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Oakling",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pirate Wheel",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Skeleton",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Toxic Lily Pad",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ancient Book",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Anglerfish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bloxy Cola",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Moon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bookshelf",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Brazier",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chilled Spikes",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crimson Flower",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cryogenic Icicle",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Whale Lantern",
+    "trueVal": "S$ 600",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Golden Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frigid Crystal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Golden Diver",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Honey Comb",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jungle Flower",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Keepers Energy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lava",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lava Spout",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Luminescent Flower",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pickaxe",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Poseidon's Pillar",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Quiet Crystal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rubber Ducky",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Starfish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sun",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tornado",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Treasure Chest",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vertigo Rock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Amber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Atlantis Guardian",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 550K",
+    "category": "Items"
+  },
+  {
+    "name": "Brine",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Carrot Friend",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crag-Crabobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crystal Cluster",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Harpoon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nautilis Shell",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Obelisk",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Supercharged Battery",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Aurora",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Tombstone",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Olympian Core",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dusk Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ghostly Conch",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Prismatic Gem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spirit Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "UFO Of Glorp",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Astraeus Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ethereal Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fabulous Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Founders Rainbow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tryhard Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Floppy Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nightmare",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Compass",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gold Coin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Whaley",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Meteor Stone",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Drifter's Tale",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Magic Ball",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "The Moby Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bloop Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chromatic Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Fisch Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clownfish Cat Toy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Carbon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Miniature Bomb",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cataclysm Cranium",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Leaf Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Meteor (Bobber)",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Not-So-Collosal Squid",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Little Car Key",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Polar Bear",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Diamond",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shaped",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eye",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Light-Wrapped Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Balloon Doggy Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lush Tree",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lumine Flag",
+    "trueVal": "S$ 25K",
+    "proto": "N/A",
+    "tradeHub": "S$ 35.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Cupid's Treat Box",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gold Chocolate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bronze Heart-Lock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cannon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silver Heart-Lock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gold Heart-Lock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bronze Heart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Redlip Batfish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "XL Meteoric Rod",
+    "trueVal": "S$ 10",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "SHADYREAPER",
+    "trueVal": "S$ 3.4K",
+    "proto": "N/A",
+    "tradeHub": "S$ 8.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Man O War",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chromatic Noiseform",
+    "trueVal": "S$ 80K",
+    "proto": "N/A",
+    "tradeHub": "S$ 75K",
+    "category": "Items"
+  },
+  {
+    "name": "Lobster Pal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Orca Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Trident Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar Fire Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wavecrest Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eternal Lantern of Abyss",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Aurora Glow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Dreamsphere",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chromatic Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Enchanted Book",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lil Dave",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Oakling Pal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sacred Cat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Styx Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gurt",
+    "trueVal": "S$ 50",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Stinky Gurt",
+    "trueVal": "S$ 1.5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Turbo Sleigh",
+    "trueVal": "S$ 380",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wisp of Etheria",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 31.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Panda",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 1.3M",
+    "category": "Items"
+  },
+  {
+    "name": "Green Wiggly Worm",
+    "trueVal": "S$ 3.9K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Purple Wiggly Worm",
+    "trueVal": "S$ 600",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chiwari",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nanatama",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pirate Hat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mermaid's Pearl",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Key of the Depths",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Totem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fossil Fish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jade Serpent Bobber",
+    "trueVal": "S$ 2.3K",
+    "proto": "N/A",
+    "tradeHub": "S$ 3.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Ancient Relic Bobber",
+    "trueVal": "S$ 4.7K",
+    "proto": "N/A",
+    "tradeHub": "S$ 7.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Elf Hat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frozen Crown",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowflake Crystal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frozen Serpent",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Santa",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Reindeer Antlers",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Festive Party Hat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Confetti Globe",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coral Crown",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Trident",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Firework Rocket",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gold Koi",
+    "trueVal": "S$ 1.8K",
+    "proto": "N/A",
+    "tradeHub": "S$ 1.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Kraken",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mermaid",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cyber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cupid's Arrow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Box O'Chocolate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Soulless Fish",
+    "trueVal": "S$ 2.7K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Obsidian Lockheart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 15K",
+    "category": "Items"
+  },
+  {
+    "name": "Trenchmaw",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hadal Core",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Deep-Sea Diver Helmet",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Whale Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jetstrike",
+    "trueVal": "S$ 15K",
+    "proto": "N/A",
+    "tradeHub": "S$ 21.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Shamrock Stem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pot o' Gold",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tentacle Orb",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Horror",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Barnacle",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Forbidden Glyph",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Easter Bunny",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Odin's Journey",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bobber Of Odin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lobster Head",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Claw",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Treasure Island",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 785K",
+    "category": "Items"
+  },
+  {
+    "name": "Hidden Treasure",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Inkling",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Magma Serpent",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Key of Obsidian",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Slimely",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 130K",
+    "category": "Items"
+  },
+  {
+    "name": "Crystallized Relic",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Mirror",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Phantom Dragon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dino Fang",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eye of Seraph",
+    "trueVal": "S$ 2.3M",
+    "proto": "N/A",
+    "tradeHub": "S$ 2.0M",
+    "category": "Items"
+  },
+  {
+    "name": "Chocolate Milk",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bloxiade",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tiger Plush",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dragon Plush",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 250K",
+    "category": "Items"
+  },
+  {
+    "name": "Fuse Bomb",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bundle of TNT",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frigid Lotus",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glacial Shard",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Green Starbun",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pink Starbun",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Hammy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silly Hammy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nervous Hammy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nomster",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Kuraudo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dizzy Star",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Veyrith",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mourvex",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Karthok",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "North Star Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dreadspire",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lunar Serpent",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Seahorse",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Orca",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Faberge Egg",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Not-So-Colossal Squid",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Beachball",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Little Mouse",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 640K",
+    "category": "Items"
+  },
+  {
+    "name": "Taiyaki",
+    "trueVal": "S$ 725K",
+    "proto": "N/A",
+    "tradeHub": "S$ 955K",
+    "category": "Items"
+  },
+  {
+    "name": "Dumbo Prize",
+    "trueVal": "S$ 60K",
+    "proto": "N/A",
+    "tradeHub": "S$ 94.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Moss",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Strawberry",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pilot Gear",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Kitty Car Key",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Butter",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rotund Seal",
+    "trueVal": "S$ 10K",
+    "proto": "N/A",
+    "tradeHub": "S$ 35.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Bee",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bears Got Your Fish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Ghoul",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Candypop",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coffinpaw Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hydrangea",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Axobobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Turkey",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowball",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Polar Bear Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nibbled Fish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Present Bow Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pinecone Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Little Leaf",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ketchup Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Evil Kitty",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 80K",
+    "category": "Items"
+  },
+  {
+    "name": "Miffy Bunny",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clicky",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "FlipMini",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 46.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Mothy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dovette",
+    "trueVal": "S$ 25K",
+    "proto": "N/A",
+    "tradeHub": "S$ 23K",
+    "category": "Items"
+  },
+  {
+    "name": "Butterfly",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Berry Blast",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sourpop",
+    "trueVal": "S$ 8K",
+    "proto": "N/A",
+    "tradeHub": "S$ 8.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Mothy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Monkey Mate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 73K",
+    "category": "Items"
+  },
+  {
+    "name": "Queen's Heart",
+    "trueVal": "S$ 5.5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Derpkat",
+    "trueVal": "S$ 15K",
+    "proto": "N/A",
+    "tradeHub": "S$ 25.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Pook",
+    "trueVal": "S$ 12K",
+    "proto": "N/A",
+    "tradeHub": "S$ 11.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Kee",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bumping Arrow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Hatchasaurus",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lolo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lilu",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Unlocked Love",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lovebit Emblem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Strawberry Pin",
+    "trueVal": "S$ 5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Remorsquid",
+    "trueVal": "S$ 42.1K",
+    "proto": "N/A",
+    "tradeHub": "S$ 77.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Angel's Wings",
+    "trueVal": "S$ 50K",
+    "proto": "N/A",
+    "tradeHub": "S$ 70K",
+    "category": "Items"
+  },
+  {
+    "name": "Frenchy Fries",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Maple Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gingerbread Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Pengu",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowyflake Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Seal Stack Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Leafy Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Axolantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Windchime Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Puppy Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Kittyling",
+    "trueVal": "S$ 80K",
+    "proto": "N/A",
+    "tradeHub": "S$ 101K",
+    "category": "Items"
+  },
+  {
+    "name": "Boney Glow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bubbly Burst",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Zzz",
+    "trueVal": "S$ 20K",
+    "proto": "N/A",
+    "tradeHub": "S$ 20K",
+    "category": "Items"
+  },
+  {
+    "name": "Solis Diadem",
+    "trueVal": "S$ 80.5K",
+    "proto": "N/A",
+    "tradeHub": "S$ 78.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Aeturnus Loop",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Merlin White",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 356K",
+    "category": "Items"
+  },
+  {
+    "name": "Merlin Black",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Santa Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Reef Guardian",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chocolate Bunny",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowman",
+    "trueVal": "S$ 60",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Burger Buggy",
+    "trueVal": "S$ 15K",
+    "proto": "N/A",
+    "tradeHub": "S$ 18.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Jetski",
+    "trueVal": "S$ 800",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Inky Halo",
+    "trueVal": "S$ 65K",
+    "proto": "N/A",
+    "tradeHub": "S$ 72.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Gliding Thru Time",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 120K",
+    "category": "Items"
+  },
+  {
+    "name": "Roslit Bay Bobber",
+    "trueVal": "S$ 5.8M",
+    "proto": "N/A",
+    "tradeHub": "S$ 7.3M",
+    "category": "Items"
+  },
+  {
+    "name": "Giant Lucky Pot",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lighthouse",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tranquility Rod",
+    "trueVal": "S$ 35K",
+    "proto": "N/A",
+    "tradeHub": "S$ 41K",
+    "category": "Items"
+  },
+  {
+    "name": "Terrotrapper Rod",
+    "trueVal": "S$ 35K",
+    "proto": "N/A",
+    "tradeHub": "S$ 41K",
+    "category": "Items"
+  },
+  {
+    "name": "Any Type Seed (Bloomspire Rod)",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sand Castle Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Celestial Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Toxinburst",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nico's Yarncaster",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ember Cluster",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vineweaver Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Pitchfork Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rotted Seed (Bloomspire: Twisted Toxins)",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Merlin Staff",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Vial of Ink",
+    "trueVal": "S$ 92K",
+    "proto": "N/A",
+    "tradeHub": "S$ 174K",
+    "category": "Items"
+  },
+  {
+    "name": "Trident Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rod of The Eternal King",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Girlypop Gurt",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Joyous Dog",
+    "trueVal": "S$ 30.5K",
+    "proto": "N/A",
+    "tradeHub": "S$ 53.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Gardenkeeper Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dave Rod (Boulder)",
+    "trueVal": "S$ 600K",
+    "proto": "N/A",
+    "tradeHub": "S$ 930K",
+    "category": "Items"
+  },
+  {
+    "name": "Wind Elemental",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 37.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Avatar Of The Elements (Wind Elemental, Mastery)",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 37.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Requiem",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 31.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Plaguereaver",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 32.5K",
+    "category": "Items"
+  },
+  {
+    "name": "Dreambreaker",
+    "trueVal": "S$ 35K",
+    "proto": "N/A",
+    "tradeHub": "S$ 21.7K",
+    "category": "Items"
+  },
+  {
+    "name": "Onirifalx",
+    "trueVal": "S$ 30K",
+    "proto": "N/A",
+    "tradeHub": "S$ 22.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Spiritbinder",
+    "trueVal": "S$ 20K",
+    "proto": "N/A",
+    "tradeHub": "S$ 17.8K",
+    "category": "Items"
+  },
+  {
+    "name": "Putrid Seaweed (Dead Man's Rod)",
+    "trueVal": "S$ 20K",
+    "proto": "N/A",
+    "tradeHub": "S$ 27.3K",
+    "category": "Items"
+  },
+  {
+    "name": "Elder Mossripper",
+    "trueVal": "S$ 15K",
+    "proto": "N/A",
+    "tradeHub": "S$ 13.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Rod Of The Exalted One",
+    "trueVal": "S$ 10K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Winterfluff",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Plushy Duomo",
+    "trueVal": "S$ 825K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Smudged Titan",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nateboard",
+    "trueVal": "S$ 2.6K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tidemourner",
+    "trueVal": "S$ 10K",
+    "proto": "N/A",
+    "tradeHub": "S$ 14.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Giant Driftwood",
+    "trueVal": "S$ 60",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Log",
+    "trueVal": "S$ 40",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Living Seed (Bloomspire: Blooming Splendor)",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Basketback Tortoise",
+    "trueVal": "S$ 1.5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Chick",
+    "trueVal": "S$ 150",
+    "proto": "N/A",
+    "tradeHub": "S$ 235",
+    "category": "Items"
+  },
+  {
+    "name": "Solid Gold Lucky Pot",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shamrock Leviathan",
+    "trueVal": "S$ 1.9K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Shamrock Express",
+    "trueVal": "S$ 785",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rainbow Boat",
+    "trueVal": "S$ 1.2K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Thalassar's Ruin",
+    "trueVal": "S$ 5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Precision Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Rowboat",
+    "trueVal": "S$ 100",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abaia's Spite Set",
+    "trueVal": "S$ 50K",
+    "proto": "N/A",
+    "tradeHub": "S$ 60K",
+    "category": "Items"
+  },
+  {
+    "name": "Giant Box of Chocolate",
+    "trueVal": "S$ 55",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pixie Horn",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Naynay",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Digihalo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 110K",
+    "category": "Items"
+  },
+  {
+    "name": "Hyperbeat",
+    "trueVal": "S$ 1.5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jingle Wings",
+    "trueVal": "S$ 300",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mini Pirate Ship",
+    "trueVal": "S$ 370",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Courtier's Halo",
+    "trueVal": "S$ 15K",
+    "proto": "N/A",
+    "tradeHub": "S$ 15K",
+    "category": "Items"
+  },
+  {
+    "name": "Firerocket Racer",
+    "trueVal": "S$ 600",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Milk Boat",
+    "trueVal": "S$ 450",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Love of Fisch",
+    "trueVal": "S$ 725",
+    "proto": "N/A",
+    "tradeHub": "S$ 561",
+    "category": "Items"
+  },
+  {
+    "name": "Harvest Glow",
+    "trueVal": "S$ 20K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gingerbread Nessie Boat",
+    "trueVal": "S$ 1K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gingerpresent",
+    "trueVal": "S$ 2.9K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lil Tubert Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frozen Rowboat",
+    "trueVal": "S$ 200",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glorp's Saucer",
+    "trueVal": "S$ 320",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Grandpa Horseshoe Crab",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lost Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Peppermint-Ski",
+    "trueVal": "S$ 1K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clown Car",
+    "trueVal": "S$ 180",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ghosdeeri",
+    "trueVal": "S$ 310",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Classic Pumpkin",
+    "trueVal": "S$ 160",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Seraphic Rod",
+    "trueVal": "S$ 4.5K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silverback Fury",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crab",
+    "trueVal": "S$ 900",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Nessie",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crimson Jetski",
+    "trueVal": "S$ 2.6K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glowfish Bobber",
+    "trueVal": "S$ 5M",
+    "proto": "N/A",
+    "tradeHub": "S$ 4.9M",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Elder Mossripper",
+    "trueVal": "S$ 800",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Love Heart",
+    "trueVal": "S$ 37K",
+    "proto": "N/A",
+    "tradeHub": "S$ 77.0K",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Ruinous Oath",
+    "trueVal": "S$ 4.8K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Fabulous Rod",
+    "trueVal": "S$ 2K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Voided Tryhard Rod",
+    "trueVal": "S$ 650",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Synthmeow",
+    "trueVal": "S$ 550K",
+    "proto": "N/A",
+    "tradeHub": "S$ 434K",
+    "category": "Items"
+  },
+  {
+    "name": "Salty Sardines",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 110K",
+    "category": "Items"
+  },
+  {
+    "name": "Time Reaper",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 380K",
+    "category": "Items"
+  },
+  {
+    "name": "Petrichor",
+    "trueVal": "S$ 875K",
+    "proto": "N/A",
+    "tradeHub": "S$ 736K",
+    "category": "Items"
+  },
+  {
+    "name": "Season Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wisdom Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Drone",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Volcanic Research Boat",
+    "trueVal": "S$ 67",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Scarlet Spincaster Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Firefly",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rod Of The Depths",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Anchor n' Chain",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blade of Glorp",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mangowire",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jelly Sharkling",
+    "trueVal": "S$ 290K",
+    "proto": "N/A",
+    "tradeHub": "S$ 269K",
+    "category": "Items"
+  },
+  {
+    "name": "Summer Gary",
+    "trueVal": "S$ 425K",
+    "proto": "N/A",
+    "tradeHub": "S$ 423K",
+    "category": "Items"
+  },
+  {
+    "name": "The Voyager Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rod of The Forgotten Fang",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Poisoned Driftwood (Toxic Spire Rod)",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dragonico",
+    "trueVal": "S$ 325K",
+    "proto": "N/A",
+    "tradeHub": "S$ 281K",
+    "category": "Items"
+  },
+  {
+    "name": "Spearhead",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lucid Rod",
+    "trueVal": "S$ 20K",
+    "proto": "N/A",
+    "tradeHub": "S$ 17.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Acorn",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Whaletopia",
+    "trueVal": "S$ 8K",
+    "proto": "N/A",
+    "tradeHub": "S$ 9.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Star",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cube",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Candy Corn",
+    "trueVal": "S$ 30",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Dark Art Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jack-O-Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Waterstar",
+    "trueVal": "S$ 6.5K",
+    "proto": "N/A",
+    "tradeHub": "S$ 8.2K",
+    "category": "Items"
+  },
+  {
+    "name": "Hour Glass",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Elite Crystal",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snow Globe",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Green Festive Light",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bubbleness",
+    "trueVal": "S$ 40K",
+    "proto": "N/A",
+    "tradeHub": "S$ 41.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Party Hat Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gift Box",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heart Candy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Baby Atlanti",
+    "trueVal": "S$ 520K",
+    "proto": "N/A",
+    "tradeHub": "S$ 590K",
+    "category": "Items"
+  },
+  {
+    "name": "Snowflake Halo",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Uwa",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Smurf Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 68.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Gravy Boat",
+    "trueVal": "S$ 250",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Scribble Sam",
+    "trueVal": "S$ 35K",
+    "proto": "N/A",
+    "tradeHub": "S$ 30.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Gravestone",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eyeball",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Toy Train",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silver Heart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gold Heart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bronze Chocolate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Silver Chocolate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Roasted Turkey",
+    "trueVal": "S$ 400",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Leaf",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Dreamer",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Treasure Whale",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Solstice Partners",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 380K",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Wiggly Worm",
+    "trueVal": "S$ 5.2K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pine Tree",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spiritual Gem",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Oceanic Tunnel",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crystallized Ball",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Party Popper",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Ship",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Sunken Diver",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Toxic Flower",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fisch Coin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Guitar Pick",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Not-So-Largemouth Bass",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Golden Coin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chocolate",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Love Letter",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Gingerbread Nessie Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Melty Man Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostwhale",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Santa's Hat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ribbon",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wreath",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Chimney",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Apple Pie Slice",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mimic Spellbook",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ghost",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spider",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lollipop",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Telescope",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Meteor",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coconut",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 325K",
+    "category": "Items"
+  },
+  {
+    "name": "Easter Egg",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ruined Dreamer",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clover",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Volcano Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Red Rose",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lion's Mane",
+    "trueVal": "S$ 2.9K",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Blue Starbun",
+    "trueVal": "S$ 280",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Glimmer",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Jingle Bell",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "XMAS Ornament",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Red Festive Light",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "White Festive Light",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Huge",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wireframe",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Translucent",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Income",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "LED",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lightning",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Evil Ducky",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ocean King",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crown Of the Depths",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Astro",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ancient Serpent Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rune Meg Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Santa Hat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Candy Cane",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Firework",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Mythic Sea Star",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Firefin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fire Snake",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Fang Fish",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Skeleton Anchor",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Midnight Medusa",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Barnacle Buoy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Quantum Anchor",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Devil Head",
+    "trueVal": "S$ 8.8K",
+    "proto": "N/A",
+    "tradeHub": "S$ 12.1K",
+    "category": "Items"
+  },
+  {
+    "name": "Fishing Net",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Azure Flower",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rainbow Shamrock",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Eldrich Eye",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Abyssal Heart",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Porky",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Peep",
+    "trueVal": "S$ 7K",
+    "proto": "N/A",
+    "tradeHub": "S$ 7.4K",
+    "category": "Items"
+  },
+  {
+    "name": "Cloud Castle",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Crab Bobber",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Cursed Coin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Apex Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Ice Skull",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Submarine",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Prism Cube",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Book of Dreams",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "S$ 715K",
+    "category": "Items"
+  },
+  {
+    "name": "Cheezburger",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Monkey Plush",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Spikesplosion",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tarnished Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Resourceful Rod",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Clover Glider",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Flower Glider",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Tiny Rainbow",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Heartful Candy",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Snowflake Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Frostpine Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Bat Glider",
+    "trueVal": "S$ 7K",
+    "proto": "N/A",
+    "tradeHub": "S$ 11.9K",
+    "category": "Items"
+  },
+  {
+    "name": "Zipp",
+    "trueVal": "S$ 26K",
+    "proto": "N/A",
+    "tradeHub": "S$ 34.6K",
+    "category": "Items"
+  },
+  {
+    "name": "Toyshop Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Rudolph Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Peppermint Lantern",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Lit Haystack",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Pumpkin Candy Basket",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Coffin",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Wisp Flame",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  },
+  {
+    "name": "Black Cat",
+    "trueVal": "N/A",
+    "proto": "N/A",
+    "tradeHub": "N/A",
+    "category": "Items"
+  }
+]
